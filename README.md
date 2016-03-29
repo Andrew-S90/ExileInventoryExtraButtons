@@ -1,6 +1,7 @@
 # ExileInventoryExtraButtons
 Two Simple buttons to Inventory screen
 
-PLOP LOCK AND DROP IT
+Make an edit to your CfgExileCustomCode to include the onInventoryOpened file
+Overwrite the file and edit the buttons to your liking!
 
-In initPlayerLocal.sqf
+Enjoy!

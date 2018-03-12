@@ -1,6 +1,6 @@
 class CfgExileCustomCode 
 {
-	ExileClient_object_player_event_onInventoryOpened = "fixes\ExileClient_object_player_event_onInventoryOpened.sqf";
+	ExileClient_object_player_event_onInventoryOpened = "custom\InventoryButton\ExileClient_object_player_event_onInventoryOpened.sqf";
 	/*
 		You can overwrite every single file of our code without touching it.
 		To do that, add the function name you want to overwrite plus the 
